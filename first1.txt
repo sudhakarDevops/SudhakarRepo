@@ -1,7 +1,0 @@
-Hi
-second line
-third line
-fourth line
-fifth line
-6th line
-master1 branch
