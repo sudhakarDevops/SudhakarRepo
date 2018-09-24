@@ -1,0 +1,1 @@
+start C:\LinuxSession\putty.exe -ssh sgangir@adcismx1ndmlp31 -pw Sudha!@#$%^123456
